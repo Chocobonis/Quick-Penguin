@@ -14,7 +14,7 @@ GLuint pinwu;
 #define PASS   "contraseña"                   // REEMPLAZAR POR TU USUARIO Y CONTRASEÑA
 #define DBCP   "nombre de la base de datos"   // 
 // CREATE TABLE pinwinos(Pinwi_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, Username varchar(50) NOT NULL, posX INT NOT NULL, posY INT NOT NULL, rotP INT NOT NULL); -- THE DATABASE SCRIPT FOR MULTIPLAYER
-#include "Res/pinwino.c"
+#include "pinwino.c"
 int width = 640, height = 480;
 int x1 = 320,yi = 240,x2 = 320,y2 = 240,px = 320,py = 240; int l,pa; int tmp_r;
 
