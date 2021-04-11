@@ -1,5 +1,5 @@
 # Quick-Penguin
-an open source of club penguin engine con C++
+an open source of club penguin engine on C++
 the idea of this open source club penguin is that anyone can create a 
 version/client of the game with a custom client and server using MySQL and C++
 please on the use of this engine give credit for the base engine
